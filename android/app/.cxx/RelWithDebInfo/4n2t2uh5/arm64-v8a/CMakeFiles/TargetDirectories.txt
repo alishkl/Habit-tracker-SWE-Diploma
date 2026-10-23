@@ -1,0 +1,2 @@
+D:/diplom/android/app/.cxx/RelWithDebInfo/4n2t2uh5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/diplom/android/app/.cxx/RelWithDebInfo/4n2t2uh5/arm64-v8a/CMakeFiles/rebuild_cache.dir
